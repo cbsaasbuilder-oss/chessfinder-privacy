@@ -1,0 +1,1 @@
+# chessfinder-privacy
